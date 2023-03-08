@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-24T13:31:22 IST" name="Suite" finished-at="2022-12-24T13:31:49 IST" duration-ms="26128">
+    <groups>
+    </groups>
+    <test started-at="2022-12-24T13:31:22 IST" name="Test3" finished-at="2022-12-24T13:31:40 IST" duration-ms="17624">
+      <class name="auto_tc.Tc3">
+        <test-method is-config="true" signature="startbrow(java.lang.String)[pri:0, instance:auto_tc.Tc3@28f2a10f]" started-at="2022-12-24T13:31:24 IST" name="startbrow" finished-at="2022-12-24T13:31:35 IST" duration-ms="11561" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrow -->
+        <test-method signature="tc1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:auto_tc.Tc3@28f2a10f]" started-at="2022-12-24T13:31:35 IST" name="tc1" data-provider="excel" finished-at="2022-12-24T13:31:40 IST" duration-ms="4438" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumarsuresh93013@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Suresh@1908]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7878787878]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Serv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Joey]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Joey66@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="aftermeth()[pri:0, instance:auto_tc.Tc3@28f2a10f]" started-at="2022-12-24T13:31:40 IST" name="aftermeth" finished-at="2022-12-24T13:31:40 IST" duration-ms="488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermeth -->
+      </class> <!-- auto_tc.Tc3 -->
+    </test> <!-- Test3 -->
+    <test started-at="2022-12-24T13:31:22 IST" name="Test2" finished-at="2022-12-24T13:31:41 IST" duration-ms="18821">
+      <class name="auto_tc.Tc2">
+        <test-method is-config="true" signature="startbrow(java.lang.String)[pri:0, instance:auto_tc.Tc2@32ee6fee]" started-at="2022-12-24T13:31:24 IST" name="startbrow" finished-at="2022-12-24T13:31:36 IST" duration-ms="12027" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrow -->
+        <test-method signature="tc1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:auto_tc.Tc2@32ee6fee]" started-at="2022-12-24T13:31:36 IST" name="tc1" data-provider="excel" finished-at="2022-12-24T13:31:41 IST" duration-ms="5141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumarsuresh93013@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Suresh@1908]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7878787878]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Serv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Joey]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Joey66@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="aftermeth()[pri:0, instance:auto_tc.Tc2@32ee6fee]" started-at="2022-12-24T13:31:41 IST" name="aftermeth" finished-at="2022-12-24T13:31:41 IST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermeth -->
+      </class> <!-- auto_tc.Tc2 -->
+    </test> <!-- Test2 -->
+    <test started-at="2022-12-24T13:31:22 IST" name="Test1" finished-at="2022-12-24T13:31:49 IST" duration-ms="26128">
+      <class name="auto_tc.Tc1">
+        <test-method is-config="true" signature="startbrow(java.lang.String)[pri:0, instance:auto_tc.Tc1@74455848]" started-at="2022-12-24T13:31:24 IST" name="startbrow" finished-at="2022-12-24T13:31:43 IST" duration-ms="19109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrow -->
+        <test-method signature="tc1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:auto_tc.Tc1@74455848]" started-at="2022-12-24T13:31:43 IST" name="tc1" data-provider="excel" finished-at="2022-12-24T13:31:48 IST" duration-ms="5739" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumarsuresh93013@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Suresh@1908]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7878787878]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Serv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Joey]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Joey66@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="aftermeth()[pri:0, instance:auto_tc.Tc1@74455848]" started-at="2022-12-24T13:31:48 IST" name="aftermeth" finished-at="2022-12-24T13:31:49 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermeth -->
+      </class> <!-- auto_tc.Tc1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
