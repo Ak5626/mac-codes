@@ -10,7 +10,7 @@ public class Tc2 extends Basecode{
 	
 	
 	@Test(dataProvider="excel", dataProviderClass=Datareader.class)
-	public void tc1(String usr, String pass, String Phone, String Company, String lastname, String emailid) throws InterruptedException {
+	public void tc2(String usr, String pass, String Phone, String Company, String lastname, String emailid) throws InterruptedException {
 		Crmpage crm = new Crmpage(driver);
 		crm.signin();
 		crm.email(usr);

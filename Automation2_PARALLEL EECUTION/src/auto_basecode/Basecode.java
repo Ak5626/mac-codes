@@ -20,6 +20,7 @@ public class Basecode {
 	
 	
 	{
+		System.out.println(browsername);
 		if(browsername.equalsIgnoreCase("chrome")) {
 			System.setProperty("webdriver.chrome.driver", "./Driver/chromedriver 4");
 		   this.driver = new ChromeDriver();
